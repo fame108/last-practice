@@ -1,6 +1,7 @@
-p{
-    color: red;
-}
-h3{
-    color: blue;
+button{
+    width: 80px;
+    height: 80px;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
 }
